@@ -3,8 +3,7 @@
 DESCRIPTION PLACEHOLDER
 
 ## What it does
-
-FEATURES PLACEHOLDER
+Welcome bot generates automatically friendly messages to new team mates members when create their first issuse and merge or pull a request 
 
 ## Getting started
 
